@@ -1,4 +1,5 @@
 ### Hi there 👋
+focus on operations optimization and machine learning😄
 
 <!--
 **LMS-77/LMS-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
